@@ -7,4 +7,4 @@ Nu da - po prezhnemu XeZe
 news from Jul 14, 2019
 
 ---
-Opyat' poshla zhara
+the other story
